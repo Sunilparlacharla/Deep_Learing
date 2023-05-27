@@ -1,2 +1,2 @@
-# Deep_Learing
-Learing Purspose 
+# Deep_Learning
+Learning Purspose 
